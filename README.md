@@ -6,7 +6,7 @@
 
 Frontend Internship Task Project
 
-[Live Demo](https://monalipawar26.github.io/Flora-Vision/) • [Repository](https://github.com/MonaliPawar26/Flora-Vision)
+[Live Demo](https://monalipawar26.github.io/Flora-Vision/) • [Repository](https://github.com/MonaliPawar26/floravision)
 
 </div>
 
@@ -72,7 +72,7 @@ Flora-Vision/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/MonaliPawar26/Flora-Vision.git
+git clone https://github.com/MonaliPawar26/floravision.git
 ```
 
 ### Move into Project Folder
