@@ -6,7 +6,7 @@
 
 Frontend Internship Task Project
 
-[Live Demo](https://monalipawar26.github.io/Flora-Vision/) • [Repository](https://github.com/MonaliPawar26/floravision)
+[Live Demo](https://floravision-2hv9.vercel.app/) • [Repository](https://github.com/MonaliPawar26/floravision)
 
 </div>
 
